@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "/Users/minhtetkaungpyae/development/flutter/packages/flutter_tools/gradle/src/main/groovy/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/minhtetkaungpyae/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/minhtetkaungpyae/development/projects/bmi_calculator/android/app/.cxx/RelWithDebInfo/5p1x4s5z/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/minhtetkaungpyae/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/minhtetkaungpyae/development/projects/bmi_calculator/android/app/.cxx/RelWithDebInfo/5p1x4s5z/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

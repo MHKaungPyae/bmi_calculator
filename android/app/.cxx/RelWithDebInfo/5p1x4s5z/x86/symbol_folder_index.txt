@@ -1,0 +1,1 @@
+/Users/minhtetkaungpyae/development/projects/bmi_calculator/build/app/intermediates/cxx/RelWithDebInfo/5p1x4s5z/obj/x86
